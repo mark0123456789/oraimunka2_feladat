@@ -1,0 +1,7 @@
+C:\Users\piringerm\gitwork\napszakok\bin\Debug\napszakok.exe.config
+C:\Users\piringerm\gitwork\napszakok\bin\Debug\napszakok.exe
+C:\Users\piringerm\gitwork\napszakok\bin\Debug\napszakok.pdb
+C:\Users\piringerm\gitwork\napszakok\obj\Debug\napszakok.csproj.AssemblyReference.cache
+C:\Users\piringerm\gitwork\napszakok\obj\Debug\napszakok.csproj.CoreCompileInputs.cache
+C:\Users\piringerm\gitwork\napszakok\obj\Debug\napszakok.exe
+C:\Users\piringerm\gitwork\napszakok\obj\Debug\napszakok.pdb
